@@ -1,0 +1,10 @@
+^([^\/\\\.]+\/)*([^\/\\\.]+\.?)[^\.\/\\]*$
+
+[^\/\\\.]+\/)*  :là t'as toute la partie nom du dossier qui se repete avec le * 
+j'ai ajoté le point au caracter interdit et puis il faut pas que le nom de dossier soit vide donc en +
+
+([^\/\\\.]+\.?) : alors des que tu met un . tu rentres dans cet paran ce qui est le nom du fichier et ca se repete pas (en d hors de parantese il ya pas de *)car une fois que t'as ecrit le nom de ton fichier et le point tu dois toute de suite mettre le format 
+
+[^\.\/\\]*$ : et puis le format de fichier et evidamment on a pas le droit a mettre des points
+
+/Desolee pour les fautes de francais :P
