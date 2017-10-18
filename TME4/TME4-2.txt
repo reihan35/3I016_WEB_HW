@@ -1,0 +1,46 @@
+Code de retour à 3 chiffres : 301
+
+Document renvoyé :
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 13 Oct 2017 09:12:00 GMT
+Server: Apache/2.4.10 (Debian)
+Location: http://127.0.0.1/~3535002/
+Content-Length: 309
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://127.0.0.1/~3535002/">here</a>.</p>
+<hr>
+<address>Apache/2.4.10 (Debian) Server at 127.0.0.1 Port 80</address>
+</body></html>
+
+Ce que le navigateur fait : telnet localhost 80 puis GET /~login HTTP/1.1 Host: 127.0.0.1
+
+Différences : 
+1c1,3
+< Trying ::1...
+---
+> 
+> <!-- saved from url=(0037)http://localhost/~3535002/telnet.html -->
+> <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"></head><body>Trying ::1...
+11,12c13,14
+< <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+< <html><head>
+---
+> 
+> 
+14c16
+< </head><body>
+---
+> 
+19c21,22
+< </body></html>
+---
+> 
+> </body></html>
+\ Pas de fin de ligne à la fin du fichier
+
