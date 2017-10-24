@@ -1,0 +1,17 @@
+1. Dans Réseau
+   21 requêtes
+   Toujours autant de requêtes
+   
+2. 12 entêtes pour le serveur
+   10 entêtes pour le client
+   1 cookie envoyé
+   
+3. CSS
+	1 feuille de style
+	
+4. Pour inspecter un élément dans la page
+
+5. Permet d'inspecter et modifier les noeuds DOM
+
+
+
