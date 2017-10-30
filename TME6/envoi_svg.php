@@ -1,5 +1,4 @@
 <?php
-
 function envoi_svg($svg, $largeur, $hauteur, $transX=10, $transY=10, $scaleX=10, $scaleY=10){
 	header("Content-Type: image/svg+xml");
 	echo "<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>\n";
@@ -13,7 +12,5 @@ function envoi_svg($svg, $largeur, $hauteur, $transX=10, $transY=10, $scaleX=10,
 	echo "</g></svg>\n";
 	
 }
-
 envoi_svg(array("<text x='0' y='10'>Ca marche</text>"), 100, 100);
-
 ?>
