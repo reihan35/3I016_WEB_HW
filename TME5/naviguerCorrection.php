@@ -4,7 +4,7 @@ function naviguer($catalogue, $n, $v=1, $corps=''){
 	$att = "type='submit' name='page'";
 
 	if (($n <= 0) or ($n > count($catalogue))) 
-		$n=1;
+		$n = 1;
 	if ($n > 1)
 		$p = "<input $att style='float: left' value='".($n-1)."'/>\n";
 	else
