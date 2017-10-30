@@ -1,33 +1,24 @@
-<?php
-require('phraser.php');
+<?php 
+require_once('phraser.php'); 
 
-function ouvrante($analyseur, $nom, $attr){
-	global $tableau;
-	
-	if ($nom == 'td'){
-		if (!isset($tableau))
-			$tableau = array();
-		if (isset($tableau['td'])){
-			foreach($attr as $k=>$v){
-				$tableau['td'][$k] = $v; 
-			}
-			if (!isset($attr['colspan'])){
-				$tableau['td']['colspan'] = 1;
-			}
-		}
-	}
-}
+global $table; 
+$table = array(); 
 
-function fermante($analyseur, $nom){
-	if ($nom == 'tr'){
-		/* il faut considérer un nouveau sous-tableau pour une éventuelle nouvelle row */
-	}
-}
+function ouvrante($phraseur, $name, $attrs) 
+{ 
+    global $table; 
 
-
-$file = fopen("testSimpleTable.html", "r");
-$data = phraser($file);
-var_dump($data);
-fclose($file);
-
-?>
+    switch ($name) { 
+	    case "tr": 
+	        $table[] = array(); /* nouvelle ligne dans le tableau */
+	        break; 
+	    case "td":  
+	        if (!isset($attrs['colspan'])) /* colspan manquant */
+	        	$attrs['colspan'] = 1;
+	        if (!isset($attrs['style'])) /* attribut style manquant */
+	        	$attrs['style'] = 'color: black'; 
+					$table[count($table)-1][] = $attrs; /* ajout du tableau d'attributs */
+	        break; 
+    } 
+} 
+?> 
