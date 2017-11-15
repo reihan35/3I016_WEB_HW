@@ -1,0 +1,402 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: DidacSPIP Emmanuel.Saint-James@upmc.fr
+CALSCALE:GREGORIAN
+X-WR-CALNAME;VALUE=TEXT:SACS 9692
+X-WR-RELCALID:/lmd/licence/2017/ue/3I016-2017oct/spip.php?action=organiser&id_rubrique=3&cours=1&nom=SACS Cours
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20170913T104500
+DTEND;TZID=Europe/Paris:20170913T123000
+LAST-MODIFIED:20171110T135416
+UID:SACS-Cours-1-0@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS Cours 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/HTML-alliage-de-deux-idees
+DESCRIPTION:SACS 1. HTML\, alliage de deux idées anciennes
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:45 A
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20170920T104500
+DTEND;TZID=Europe/Paris:20170920T123000
+LAST-MODIFIED:20171110T135416
+UID:SACS-Cours-2-0@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS Cours 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/PHP-ou-la-programmation-multi
+DESCRIPTION:SACS 2. PHP\, ou la programmation multi-lingue
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:45 A
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20170922T084500
+DTEND;TZID=Europe/Paris:20170922T103000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux Dirigés-1-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TD G4 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/Les-envois-du-serveur
+DESCRIPTION:SACS 1. Les envois du serveur
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:24-25 102
+SEQUENCE:6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20170922T104500
+DTEND;TZID=Europe/Paris:20170922T123000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux sur Machine-1-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TM G4 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/Le-navigateur-et-ses-outils
+DESCRIPTION:SACS 1. Le navigateur et ses outils
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:14-15 303
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20170927T104500
+DTEND;TZID=Europe/Paris:20170927T123000
+LAST-MODIFIED:20171110T135416
+UID:SACS-Cours-3-0@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS Cours 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/Le-protocole-HTTP-et-ses-rejetons
+DESCRIPTION:SACS 3. Le protocole HTTP et ses rejetons
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:45 A
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20170929T084500
+DTEND;TZID=Europe/Paris:20170929T103000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux Dirigés-2-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TD G4 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/PHP-et-les-RegExp
+DESCRIPTION:SACS 2. PHP et les RegExp
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:24-25 102
+SEQUENCE:6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20170929T104500
+DTEND;TZID=Europe/Paris:20170929T123000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux sur Machine-2-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TM G4 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/L-environnement-de-PHP
+DESCRIPTION:SACS 2. L'environnement de PHP
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:14-15 303
+SEQUENCE:5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171004T104500
+DTEND;TZID=Europe/Paris:20171004T123000
+LAST-MODIFIED:20171110T135416
+UID:SACS-Cours-4-0@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS Cours 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/Les-protocoles-textuels-F-E-SM-HT
+DESCRIPTION:SACS 4. Les protocoles textuels (F|E?SM|HT)TP 
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:45 A
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171006T084500
+DTEND;TZID=Europe/Paris:20171006T103000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux Dirigés-3-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TD G4 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/Le-temps-du-formulaire
+DESCRIPTION:SACS 3. Le temps du formulaire
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:24-25 102
+SEQUENCE:6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171006T104500
+DTEND;TZID=Europe/Paris:20171006T123000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux sur Machine-3-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TM G4 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/Formulaires-en-folie
+DESCRIPTION:SACS 3. Formulaires en folie
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:14-15 303
+SEQUENCE:5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171011T104500
+DTEND;TZID=Europe/Paris:20171011T123000
+LAST-MODIFIED:20171110T135416
+UID:SACS-Cours-5-0@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS Cours 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/XML-l-art-d-etre-grammaire
+DESCRIPTION:SACS 5. XML\, l'art d'être grammaire
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:45 A
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171013T084500
+DTEND;TZID=Europe/Paris:20171013T103000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux Dirigés-4-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TD G4 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/POP-un-protocole-pour-boite-a
+DESCRIPTION:SACS 4. POP\, un protocole pour boîte à lettres distante
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:24-25 102
+SEQUENCE:6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171018T104500
+DTEND;TZID=Europe/Paris:20171018T123000
+LAST-MODIFIED:20171110T135416
+UID:SACS-Cours-6-0@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS Cours 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/MIME-le-catalogue-incons-is-tant
+DESCRIPTION:SACS 6. MIME\, le catalogue incons(is)tant du numérique
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:45 A
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171020T084500
+DTEND;TZID=Europe/Paris:20171020T103000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux Dirigés-5-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TD G4 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/Comprendre-les-requetes-HTTP
+DESCRIPTION:SACS 5. Comprendre les requêtes HTTP
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:24-25 102
+SEQUENCE:6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171024T160000
+DTEND;TZID=Europe/Paris:20171024T174500
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux Dirigés-6-2@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TD G2 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/Analyse-XML-dirigee-par-les
+DESCRIPTION:SACS 6. Analyse XML dirigée par les événements
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:24-25 104
+SEQUENCE:6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171024T180000
+DTEND;TZID=Europe/Paris:20171024T194500
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux sur Machine-6-2@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TM G2 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/SVG-ou-le-traitement-d-image-par
+DESCRIPTION:SACS 6. SVG\, ou le traitement d'image par XML
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:14-15 303
+SEQUENCE:6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171025T104500
+DTEND;TZID=Europe/Paris:20171025T123000
+LAST-MODIFIED:20171110T135416
+UID:SACS-Cours-7-0@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS Cours 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/Les-Feuilles-de-styles-en-cascade
+DESCRIPTION:SACS 7. Les Feuilles de styles en cascade: CSS
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:45 A
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171025T140000
+DTEND;TZID=Europe/Paris:20171025T154500
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux Dirigés-6-3@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TD G3 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/Analyse-XML-dirigee-par-les
+DESCRIPTION:SACS 6. Analyse XML dirigée par les événements
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:24-25 102
+SEQUENCE:6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171025T160000
+DTEND;TZID=Europe/Paris:20171025T174500
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux sur Machine-6-3@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TM G3 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/SVG-ou-le-traitement-d-image-par
+DESCRIPTION:SACS 6. SVG\, ou le traitement d'image par XML
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:14-15 303
+SEQUENCE:6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171027T084500
+DTEND;TZID=Europe/Paris:20171027T103000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux Dirigés-6-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TD G4 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/Analyse-XML-dirigee-par-les
+DESCRIPTION:SACS 6. Analyse XML dirigée par les événements
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:24-25 102
+SEQUENCE:6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171027T104500
+DTEND;TZID=Europe/Paris:20171027T123000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux sur Machine-6-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TM G4 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/SVG-ou-le-traitement-d-image-par
+DESCRIPTION:SACS 6. SVG\, ou le traitement d'image par XML
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:14-15 303
+SEQUENCE:5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171108T104500
+DTEND;TZID=Europe/Paris:20171108T134500
+LAST-MODIFIED:20171108T104704
+UID:SACS-Contrôles des Connaissances-1-0@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS CC 
+URL;VALUE=URI:https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct/Evaluation-d-expressions
+DESCRIPTION:SACS 1. Evaluation d'expressions arithmétiques postfixées 
+LOCATION:14-15 302\, 14-15 305\, 14-15 307\, 14-15 308\, 14-15 401\, 14-15 403\, 14-15 406\, 14-15 408
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171115T104500
+DTEND;TZID=Europe/Paris:20171115T123000
+LAST-MODIFIED:20171110T135416
+UID:SACS-Cours-8-0@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS Cours 
+DESCRIPTION:SACS (Séance 8) 
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:45 A
+SEQUENCE:3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171122T104500
+DTEND;TZID=Europe/Paris:20171122T123000
+LAST-MODIFIED:20171110T135416
+UID:SACS-Cours-9-0@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS Cours 
+DESCRIPTION:SACS (Séance 9) 
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:45 A
+SEQUENCE:3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171124T084500
+DTEND;TZID=Europe/Paris:20171124T103000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux Dirigés-8-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TD G4 
+DESCRIPTION:SACS (Séance 8) 
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:24-25 102
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171124T104500
+DTEND;TZID=Europe/Paris:20171124T123000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux sur Machine-8-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TM G4 
+DESCRIPTION:SACS (Séance 8) 
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:14-15 303
+SEQUENCE:3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171129T104500
+DTEND;TZID=Europe/Paris:20171129T123000
+LAST-MODIFIED:20171110T135416
+UID:SACS-Cours-10-0@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS Cours 
+DESCRIPTION:SACS (Séance 10) 
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:45 A
+SEQUENCE:3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171201T084500
+DTEND;TZID=Europe/Paris:20171201T103000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux Dirigés-9-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TD G4 
+DESCRIPTION:SACS (Séance 9) 
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:24-25 102
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171201T104500
+DTEND;TZID=Europe/Paris:20171201T123000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux sur Machine-9-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TM G4 
+DESCRIPTION:SACS (Séance 9) 
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:14-15 303
+SEQUENCE:3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171213T104500
+DTEND;TZID=Europe/Paris:20171213T123000
+LAST-MODIFIED:20171110T135416
+UID:SACS-Cours-11-0@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS Cours 
+DESCRIPTION:SACS (Séance 11) 
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:45 A
+SEQUENCE:3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171215T084500
+DTEND;TZID=Europe/Paris:20171215T103000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux Dirigés-10-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TD G4 
+DESCRIPTION:SACS (Séance 10) 
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:24-25 102
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171215T104500
+DTEND;TZID=Europe/Paris:20171215T123000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux sur Machine-10-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TM G4 
+DESCRIPTION:SACS (Séance 10) 
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:14-15 303
+SEQUENCE:3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171222T084500
+DTEND;TZID=Europe/Paris:20171222T103000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux Dirigés-11-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TD G4 
+DESCRIPTION:SACS (Séance 11) 
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:24-25 102
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20171222T104500
+DTEND;TZID=Europe/Paris:20171222T123000
+LAST-MODIFIED:20171103T181344
+UID:SACS-Travaux sur Machine-11-4@https://www-licence.ufr-info-p6.jussieu.fr:8083/lmd/licence/2017/ue/3I016-2017oct
+SUMMARY:SACS TM G4 
+DESCRIPTION:SACS (Séance 11) 
+ATTENDEE:mailto:emmanuel.saint-james@upmc.fr
+LOCATION:14-15 303
+SEQUENCE:3
+END:VEVENT
+END:VCALENDAR
