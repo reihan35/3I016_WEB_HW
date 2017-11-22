@@ -1,0 +1,16 @@
+li > ul > li {
+	color: red;
+	display: none;
+}
+
+a:hover + ul > li {
+	color: red;
+	display: block;
+}
+
+
+a:hover + li {
+	color: red;
+	display: block;
+}
+
